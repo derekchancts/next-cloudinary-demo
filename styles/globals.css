@@ -1,4 +1,4 @@
-html,
+/* html,
 body {
   padding: 0;
   margin: 0;
@@ -13,4 +13,64 @@ a {
 
 * {
   box-sizing: border-box;
+} */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap');
+
+
+body {
+  padding: 0;
+  margin: 0;
 }
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+form {
+  display: flex;
+  flex-direction: column; 
+}
+
+/* .content {
+  max-width: 960px;
+  margin: 0 auto;
+} */
+
+
+/* body {
+  background: #f2f2f2;
+  color: #333;
+  font-family: "Nunito";
+} */
+
+/* a {
+  
+  text-decoration: none;
+}
+
+.content {
+  max-width: 960px;
+  margin: 0 auto;
+}
+ */
+
+
+/* nav {
+  margin: 10px auto 80px;
+  padding: 10px 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  border-bottom: 1px solid #ddd;
+} */
+
+/* nav a {
+  margin-left: 12px;
+}
+
+nav .logo {
+  margin-right: auto;
+} */
